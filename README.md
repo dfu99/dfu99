@@ -1,5 +1,12 @@
-## Hi there 👋
+# Daniel Fu, PhD
+Researcher in Biology, Algorithms, & ML
 
+# Intro 👋
+
+* I did my PhD at Duke University in Computer Science with [John Reif](https://users.cs.duke.edu/~reif/), working on architectures for molecular-scale computating, digital twins of biological self-assembly, and software-automated design methodologies for complex DNA nanostructures.
+* I'm currently a Postdoc at Emory University with [Yonggang Ke](https://kelaboratory.wixsite.com/ke-lab), working on experimental-to-ML pipelines for protein dynamics and ML models for small-variation sequence-resolved molecular behavior prediction in large DNA computing systems.
+
+I am currently on the job market.
 <!--
 **dfu99/dfu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
