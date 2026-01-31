@@ -1,5 +1,5 @@
 # Daniel Fu, PhD
-Researcher in Biology, Algorithms, & ML
+ML Research
 
 # Intro 👋
 
