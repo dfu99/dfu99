@@ -1,10 +1,10 @@
 # Daniel Fu, PhD
-ML Research
+ML Researcher
 
 # Intro 👋
 
 * I did my PhD at Duke University in Computer Science with [John Reif](https://users.cs.duke.edu/~reif/), working on architectures for molecular-scale computing, digital twins of biological self-assembly, and software-automated design methodologies for complex DNA nanostructures.
-* I'm currently a Postdoc at Emory University with [Yonggang Ke](https://kelaboratory.wixsite.com/ke-lab), working on experimental-to-ML pipelines for protein dynamics and ML models for small-variation sequence-resolved molecular behavior prediction in large DNA computing systems.
+* I'm currently a Postdoc at Emory University with [Yonggang Ke](https://kelaboratory.wixsite.com/ke-lab), working on agentic tooling workflows for biomolecular design, experimental-to-ML pipelines for protein dynamics, and ML models for small-variation sequence-resolved molecular behavior prediction in large DNA computing systems.
 
 I am currently on the job market.
 <!--
